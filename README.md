@@ -7,3 +7,7 @@ Just download site2sms.py and run it.It will ask you four credentials,your usern
 After entering them automatically message will be sent.
 
 If success it will be displayed,otherwise It will show the delivery failed message.
+
+site2sms_adv uses custom data pickled already and do not ask for creadentials each time.It only prompts for message and sends it instantly.
+
+First we need to pickle our information in apickle file to access.
